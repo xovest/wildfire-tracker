@@ -1,6 +1,8 @@
+import Map from "./components/Map";
+
 function App() {
   return (
-    <h1>sad</h1>
+    <Map />
   );
 }
 
